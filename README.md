@@ -18,7 +18,9 @@ Me chamo marcos alexandre, tenho 20 anos. tenho o ensino médio completo, Atualm
     alt="HTML"
     title="HTML" 
     width="30px" 
-    style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original-wordmark.svg" />
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
+          
                    
   
 <img 
